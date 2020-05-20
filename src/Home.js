@@ -19,7 +19,7 @@ export default class Home extends React.Component {
                 <div className="card-body">
                     <h5 className="card-title">Tic toc Game made by Sami Abishai</h5>
                     <p className="card-text">To start the game press the start button below and enjoy</p>
-                    <Link className="btn btn-dark text-white m-1" id='startGame' to="/game/"><FontAwesomeIcon icon={faDice} />  Start The Game 1 vs 1</Link>
+                    <Link className="btn btn-dark text-white m-1" id='startGame' to="/TicTacToeReactGame/game/"><FontAwesomeIcon icon={faDice} />  Start The Game 1 vs 1</Link>
                 </div>
             </div>
         );
