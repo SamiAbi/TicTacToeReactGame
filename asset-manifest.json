@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/TicTacToeReactGame/static/js/main.ea584990.chunk.js",
-    "main.js.map": "/TicTacToeReactGame/static/js/main.ea584990.chunk.js.map",
+    "main.js": "/TicTacToeReactGame/static/js/main.ad002ed4.chunk.js",
+    "main.js.map": "/TicTacToeReactGame/static/js/main.ad002ed4.chunk.js.map",
     "runtime-main.js": "/TicTacToeReactGame/static/js/runtime-main.fa713e53.js",
     "runtime-main.js.map": "/TicTacToeReactGame/static/js/runtime-main.fa713e53.js.map",
     "static/js/2.8b31d850.chunk.js": "/TicTacToeReactGame/static/js/2.8b31d850.chunk.js",
     "static/js/2.8b31d850.chunk.js.map": "/TicTacToeReactGame/static/js/2.8b31d850.chunk.js.map",
     "index.html": "/TicTacToeReactGame/index.html",
-    "precache-manifest.bc5bddbfa44064a7625f122a353c5068.js": "/TicTacToeReactGame/precache-manifest.bc5bddbfa44064a7625f122a353c5068.js",
+    "precache-manifest.a9182be0ddd8203ddf407941ada7054c.js": "/TicTacToeReactGame/precache-manifest.a9182be0ddd8203ddf407941ada7054c.js",
     "service-worker.js": "/TicTacToeReactGame/service-worker.js",
     "static/js/2.8b31d850.chunk.js.LICENSE.txt": "/TicTacToeReactGame/static/js/2.8b31d850.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fa713e53.js",
     "static/js/2.8b31d850.chunk.js",
-    "static/js/main.ea584990.chunk.js"
+    "static/js/main.ad002ed4.chunk.js"
   ]
 }
