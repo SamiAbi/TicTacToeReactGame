@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.b70030d9.chunk.js",
-    "main.js.map": "/static/js/main.b70030d9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ea40f987.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ea40f987.js.map",
-    "static/js/2.8b31d850.chunk.js": "/static/js/2.8b31d850.chunk.js",
-    "static/js/2.8b31d850.chunk.js.map": "/static/js/2.8b31d850.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a9e490a38bbbbf291619066171e724af.js": "/precache-manifest.a9e490a38bbbbf291619066171e724af.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.8b31d850.chunk.js.LICENSE.txt": "/static/js/2.8b31d850.chunk.js.LICENSE.txt"
+    "main.js": "/TicTacToeReactGame/static/js/main.b70030d9.chunk.js",
+    "main.js.map": "/TicTacToeReactGame/static/js/main.b70030d9.chunk.js.map",
+    "runtime-main.js": "/TicTacToeReactGame/static/js/runtime-main.fa713e53.js",
+    "runtime-main.js.map": "/TicTacToeReactGame/static/js/runtime-main.fa713e53.js.map",
+    "static/js/2.8b31d850.chunk.js": "/TicTacToeReactGame/static/js/2.8b31d850.chunk.js",
+    "static/js/2.8b31d850.chunk.js.map": "/TicTacToeReactGame/static/js/2.8b31d850.chunk.js.map",
+    "index.html": "/TicTacToeReactGame/index.html",
+    "precache-manifest.54a475c46a4842a1100f4e19e5e834fe.js": "/TicTacToeReactGame/precache-manifest.54a475c46a4842a1100f4e19e5e834fe.js",
+    "service-worker.js": "/TicTacToeReactGame/service-worker.js",
+    "static/js/2.8b31d850.chunk.js.LICENSE.txt": "/TicTacToeReactGame/static/js/2.8b31d850.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea40f987.js",
+    "static/js/runtime-main.fa713e53.js",
     "static/js/2.8b31d850.chunk.js",
     "static/js/main.b70030d9.chunk.js"
   ]
