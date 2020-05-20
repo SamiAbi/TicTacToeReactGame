@@ -9,8 +9,8 @@ export default () => (
             <Header />
             <div className="mx-1 pb-5">
                 {<Switch>
-                    <Route path="/" component={Home} exact />
-                    <Route path="/game/" component={GameBoard} />
+                    <Route path="/TicTacToeReactGame/" component={Home} exact />
+                    <Route path="/TicTacToeReactGame/game/" component={GameBoard} />
                 </Switch>}
             </div>
         </div>
