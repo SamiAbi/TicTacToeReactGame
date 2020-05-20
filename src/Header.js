@@ -8,12 +8,12 @@ export default class Header extends React.Component {
         super(props);
         this.navbarMenu = [
             {
-                path: '/',
+                path: '/TicTacToeReactGame/',
                 id: 'Home',
                 name: 'Home'
             },
             {
-                path: '/game/',
+                path: '/TicTacToeReactGame/game/',
                 id: 'newGame',
                 name: 'New Game 1 vs 1'
             },
