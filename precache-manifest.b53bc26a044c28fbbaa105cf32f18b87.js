@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "79e308af69cc41791dd4630a8b5d5a3a",
+    "revision": "9484eb293c55ffb6c6a41795bdc06d4c",
     "url": "/TicTacToeReactGame/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TicTacToeReactGame/static/js/2.8b31d850.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f118669da4575cf32846",
-    "url": "/TicTacToeReactGame/static/js/main.ad002ed4.chunk.js"
+    "revision": "f75fe4d65c5fdacdd51d",
+    "url": "/TicTacToeReactGame/static/js/main.1f55d9e0.chunk.js"
   },
   {
     "revision": "3f129f0d1f2633e685f7",
